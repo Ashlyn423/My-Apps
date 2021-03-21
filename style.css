@@ -1,0 +1,49 @@
+body{
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+    color: red;
+}
+
+#app{
+    margin: 10px;
+    background-color: gold;
+    padding: 30px;
+}
+
+#games{
+    margin: 30px;
+    background-color: mediumvioletred;
+    padding: 30px;
+}
+
+#chatbot{
+    margin: 30px;
+    border: 5px;
+    border-color: slateblue;
+    border-radius: 20px;
+    background-color: rebeccapurple;
+    padding: 30px;
+}
+
+.menu{
+    padding-left: 100px;
+    color: skyblue;
+    list-style: none;
+    float: left;
+    top: 30px; 
+    left: 30px;
+    cursor: pointer;
+}
+
+.links{
+    color: salmon;
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
